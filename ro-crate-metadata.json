@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-09-24T11:48:45.813673",
+            "datePublished": "2024-11-13T14:14:03.727975",
             "hasPart": [
                 {
                     "@id": "rnaseq-pe.ga"
@@ -64,7 +64,10 @@
             ],
             "creator": [
                 {
-                    "@id": "#0000-0002-1964-4960"
+                    "@id": "https://orcid.org/0000-0002-1964-4960"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-5192-126X"
                 }
             ],
             "name": "rnaseq-pe/main",
@@ -72,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/rnaseq-pe",
-            "version": "0.9"
+            "version": "1.0"
         },
         {
             "@id": "#galaxy",
@@ -87,9 +90,14 @@
             "version": "v19_09"
         },
         {
-            "@id": "#0000-0002-1964-4960",
+            "@id": "https://orcid.org/0000-0002-1964-4960",
             "@type": "Person",
             "name": "Lucille Delisle"
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-5192-126X",
+            "@type": "Person",
+            "name": "Pavankumar Videm"
         },
         {
             "@id": "README.md",
