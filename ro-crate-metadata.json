@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-14T21:37:44.312060",
+            "datePublished": "2026-10-20T16:46:13.113108",
             "hasPart": [
                 {
                     "@id": "rnaseq-pe.ga"
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/rnaseq-pe",
-            "version": "1.6"
+            "version": "1.7"
         },
         {
             "@id": "#galaxy",
